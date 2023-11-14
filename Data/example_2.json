@@ -1,0 +1,17 @@
+[
+    {"string":"string1","int":1,"array":[11,22,33],"dict": {"key": "value1"}},
+    {"string":"string2","int":2,"array":[23,45,67],"dict": {"key": "value2"}},
+    {
+        "string": "string3",
+        "int": 3,
+        "array": [
+            33,
+            66,
+            99
+        ],
+        "dict": {
+            "key": "value3",
+            "extra_key": "extra_value3"
+        }
+    }
+]
